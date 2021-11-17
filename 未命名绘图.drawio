@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T07:26:57.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WHaaP2Lcfxlp6wuii5tq" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T07:32:56.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="PM-_XhjYIRT58Jzn2C8F" version="15.7.4" type="github">
   <diagram id="Jb7FGEpXRoXuC_CW7j2I" name="第 1 页">
     <mxGraphModel dx="1350" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -36,6 +36,12 @@
         </mxCell>
         <mxCell id="7C6DVKjoM1voIIh-nEnI-4" value="广告位位置不是偶数抛异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="746" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7C6DVKjoM1voIIh-nEnI-5" value="判断是否是首页iconV2的广告位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="830" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7C6DVKjoM1voIIh-nEnI-6" value="如果是首页iconV2的广告位，icon数量少于配置的数量时，抛异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="893" width="119" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
