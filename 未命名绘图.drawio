@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T07:47:15.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="aP2-xwF-hSVPbCn2qJIF" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T08:00:59.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="W9iWwRIahAP4sl7CpRow" version="15.7.4" type="github">
   <diagram id="Jb7FGEpXRoXuC_CW7j2I" name="第 1 页">
     <mxGraphModel dx="1350" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -84,6 +84,21 @@
         </mxCell>
         <mxCell id="7C6DVKjoM1voIIh-nEnI-21" value="验证成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="786" y="2630" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7C6DVKjoM1voIIh-nEnI-22" value="设置MktResourceModel的参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="2720" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7C6DVKjoM1voIIh-nEnI-23" value="更新数据库中的Banner Resource" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="3301" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7C6DVKjoM1voIIh-nEnI-24" value="新的resource插入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="3411" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7C6DVKjoM1voIIh-nEnI-25" value="更新已存在的resource" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="3470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7C6DVKjoM1voIIh-nEnI-26" value="初始化手机端搜索广告位的缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="3640" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
